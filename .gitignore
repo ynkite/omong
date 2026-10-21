@@ -42,3 +42,4 @@ application.properties
 # 비공개 키(카카오/MindLogic) — 커밋 금지
 application-secret.properties
 **/application-secret.properties
+*.bak*
