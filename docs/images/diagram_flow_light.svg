@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 468" width="860" height="468">
+<style>text{font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',system-ui,sans-serif}</style>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="2" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4 L0,8 L2,4 z" fill="#6e7781"/></marker></defs>
+<rect x="8" y="16" width="844" height="259" rx="10" fill="none" stroke="#afb8c1" stroke-dasharray="6,4"/>
+<text x="20" y="35" font-size="12" fill="#59636e">주문</text>
+<rect x="8" y="293" width="844" height="129" rx="10" fill="none" stroke="#afb8c1" stroke-dasharray="6,4"/>
+<text x="20" y="312" font-size="12" fill="#59636e">제보 (등록되지 않은 가게)</text>
+<path d="M208,88.5 L220,88.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M421,88.5 L433,88.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M634,88.5 L646,88.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M536.5,136 L536.5,165" fill="none" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5,4" marker-end="url(#a)"/>
+<path d="M609,171 C609,153 682,162 682,142" fill="none" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5,4" marker-end="url(#a)"/>
+<path d="M749.5,136 L749.5,165" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M208,365.5 L220,365.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M421,365.5 L433,365.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<path d="M634,365.5 L646,365.5" fill="none" stroke="#6e7781" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="18" y="46" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="110.5" y="75.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">1. 입력</text>
+<text x="110.5" y="97.0" font-size="13" text-anchor="middle" fill="#59636e">사진 찍기, 말하기,</text>
+<text x="110.5" y="115.0" font-size="13" text-anchor="middle" fill="#59636e">누르기</text>
+<rect x="231" y="46" width="185" height="85" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<text x="323.5" y="75.0" font-size="15" font-weight="700" text-anchor="middle" fill="#0550ae">2. 가게 알아보기</text>
+<text x="323.5" y="97.0" font-size="13" text-anchor="middle" fill="#59636e">어느 가게인지 짐작,</text>
+<text x="323.5" y="115.0" font-size="13" text-anchor="middle" fill="#59636e">맞는지 되묻기</text>
+<rect x="444" y="46" width="185" height="85" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<text x="536.5" y="75.0" font-size="15" font-weight="700" text-anchor="middle" fill="#0550ae">3. 메뉴 좁혀 가기</text>
+<text x="536.5" y="97.0" font-size="13" text-anchor="middle" fill="#59636e">쉬운 질문과 보기로</text>
+<text x="536.5" y="115.0" font-size="13" text-anchor="middle" fill="#59636e">메뉴를 좁힘</text>
+<rect x="657" y="46" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="749.5" y="75.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">4. 누를 곳 안내</text>
+<text x="749.5" y="97.0" font-size="13" text-anchor="middle" fill="#59636e">5개 국어 음성,</text>
+<text x="749.5" y="115.0" font-size="13" text-anchor="middle" fill="#59636e">큰 글씨</text>
+<rect x="444" y="176" width="185" height="85" rx="8" fill="none" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="536.5" y="205.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">규칙으로 이어 가기</text>
+<text x="536.5" y="227.0" font-size="13" text-anchor="middle" fill="#59636e">등록해 둔 메뉴 분류를</text>
+<text x="536.5" y="245.0" font-size="13" text-anchor="middle" fill="#59636e">차례로 물음</text>
+<rect x="657" y="176" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="749.5" y="205.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">5. 막히면</text>
+<text x="749.5" y="227.0" font-size="13" text-anchor="middle" fill="#59636e">직원에게 보여주기</text>
+<text x="749.5" y="245.0" font-size="13" text-anchor="middle" fill="#59636e">(주문서와 합계)</text>
+<rect x="18" y="323" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="110.5" y="361.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">제보 사진</text>
+<text x="110.5" y="383.0" font-size="13" text-anchor="middle" fill="#59636e">키오스크나 메뉴판</text>
+<rect x="231" y="323" width="185" height="85" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<text x="323.5" y="352.0" font-size="15" font-weight="700" text-anchor="middle" fill="#0550ae">사진에서 메뉴 읽기</text>
+<text x="323.5" y="374.0" font-size="13" text-anchor="middle" fill="#59636e">모르면 비우고</text>
+<text x="323.5" y="392.0" font-size="13" text-anchor="middle" fill="#59636e">지어내지 않음</text>
+<rect x="444" y="323" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="536.5" y="352.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">개인정보 가림</text>
+<text x="536.5" y="374.0" font-size="13" text-anchor="middle" fill="#59636e">카드번호, 주민번호 꼴</text>
+<text x="536.5" y="392.0" font-size="13" text-anchor="middle" fill="#59636e">숫자를 가린 뒤 대기</text>
+<rect x="657" y="323" width="185" height="85" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+<text x="749.5" y="352.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2328">관리자 승인</text>
+<text x="749.5" y="374.0" font-size="13" text-anchor="middle" fill="#59636e">승인해야 가게 메뉴</text>
+<text x="749.5" y="392.0" font-size="13" text-anchor="middle" fill="#59636e">데이터로 등록</text>
+<rect x="690" y="440" width="22" height="14" rx="3" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<text x="720" y="451.5" font-size="12" fill="#59636e">AI 가 일하는 칸</text>
+<path d="M521.0,447 L553.0,447" stroke="#6e7781" stroke-width="1.4" stroke-dasharray="5,4" marker-end="url(#a)"/>
+<text x="567.0" y="451.5" font-size="12" fill="#59636e">AI 서버가 안 될 때</text>
+</svg>
